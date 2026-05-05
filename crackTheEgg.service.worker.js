@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1777992389|7439688239';
+const CACHE_VERSION = '1777992709|7759508101';
 /** @type {string} */
 const CACHE_PREFIX = 'crackTheEgg-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
